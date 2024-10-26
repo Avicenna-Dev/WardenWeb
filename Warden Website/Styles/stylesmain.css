@@ -136,9 +136,8 @@ hr {
 .navbar {
     list-style-type: none;
     margin: 0;
-    padding: 0;
     color: black;
-    padding: 1.75%;
+    padding: 17px 17px 17px 17px;
     background-color: #ebeff6;
     color: rgb(2, 16, 28);
     text-decoration: none;
@@ -157,7 +156,6 @@ hr {
 .navbar:hover {
     list-style-type: none;
     margin: 0;
-    padding: 0;
     color: black;
     padding: 17px 17px 17px 17px;
     background-color: #d1dcec;
